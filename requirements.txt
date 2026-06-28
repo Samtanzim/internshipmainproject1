@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+xgboost
+streamlit
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+joblib
+faker
